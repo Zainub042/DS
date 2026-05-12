@@ -2,7 +2,6 @@
 
 ## Student Information
 - **Name:** Zainub Hassan  
-- **Registration Number:** 2280374
 - **Course:** IDS   
 
 ---
@@ -30,4 +29,5 @@ Air pollution is a major global challenge. The goal of this project is to analyz
 ## 🚀 How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/AQI-Data-Science-Project.git
+   git clone https://github.com/Zainub042/DS.git
+
