@@ -1,9 +1,5 @@
 # 🌍 AQI Data Science Project
 
-## Student Information
-- **Name:** Zainub Hassan  
-- **Course:** IDS   
-
 ---
 
 ## 📊 Dataset
@@ -14,7 +10,10 @@
 ---
 
 ## 📝 Problem Statement
-Air pollution is a major global challenge. The goal of this project is to analyze AQI data, visualize pollution patterns, and apply machine learning models to classify and cluster air quality categories.  
+Air pollution is a major global challenge.  
+The goal of this project is twofold:  
+1. **(Data Science):** Analyze AQI data, visualize pollution patterns, and apply machine learning models to classify and cluster air quality categories.  
+2. **(Reinforcement Learning):** Train an RL agent to learn optimal traffic-control actions based on AQI states.  
 
 ---
 
@@ -26,8 +25,7 @@ Air pollution is a major global challenge. The goal of this project is to analyz
 
 ---
 
-## 🚀 How to Run the Notebook
+## 🚀 How to Run the Notebooks
 1. Clone the repository:
    ```bash
    git clone https://github.com/Zainub042/DS.git
-
