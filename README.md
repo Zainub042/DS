@@ -25,6 +25,32 @@ The goal of this project is twofold:
 
 ---
 
+## 📈 DS Highlights
+- Classification Models: KNN, Naive Bayes
+- Clustering: K-Means (k=3)
+- Dimensionality Reduction: PCA
+- Visualizations: AQI distributions, pollutant correlations, clustering plots
+- Key Findings: PM2.5 is the strongest driver of AQI; South Asian cities consistently show highest AQI values.
+
+---
+
+## 🤖 RL Traffic Control)
+- States: Low, Medium, High AQI
+- Actions: No Restriction, Partial Restriction, High-Pollution Alert
+- Reward System: +10 for correct action, penalties otherwise
+- Training: 500 episodes, α=0.1, γ=0.9, ε=0.2
+- Final Q-table: Saved in outputs/rl_results/q_table.csv
+- Learned Policy:
+- Low AQI → No Restriction
+- Medium AQI → Partial Restriction
+- High AQI → High-Pollution Alert
+  
+---
+
+## 📑 Reports
+
+---
+
 ## 🚀 How to Run the Notebooks
 1. Clone the repository:
    ```bash
